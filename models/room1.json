@@ -1071,11 +1071,23 @@
       ]
     ],
     "material": {
-      "name": "",
-      "ambient": [],
-      "diffuse": [],
-      "specular": [],
-      "n": 0,
+      "name": "Material.004",
+      "ambient": [
+        1,
+        1,
+        1
+      ],
+      "diffuse": [
+        0.15,
+        0.060212,
+        0.015118
+      ],
+      "specular": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "n": 250,
       "alpha": 1,
       "texture": ""
     }
@@ -9166,11 +9178,23 @@
       ]
     ],
     "material": {
-      "name": "",
-      "ambient": [],
-      "diffuse": [],
-      "specular": [],
-      "n": 0,
+      "name": "Material.003",
+      "ambient": [
+        1,
+        1,
+        1
+      ],
+      "diffuse": [
+        0.164268,
+        0.031759,
+        0.014834
+      ],
+      "specular": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "n": 250,
       "alpha": 1,
       "texture": ""
     }
@@ -21103,11 +21127,23 @@
       ]
     ],
     "material": {
-      "name": "",
-      "ambient": [],
-      "diffuse": [],
-      "specular": [],
-      "n": 0,
+      "name": "Material.001",
+      "ambient": [
+        1,
+        1,
+        1
+      ],
+      "diffuse": [
+        0.146719,
+        0.245684,
+        0.8
+      ],
+      "specular": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "n": 250,
       "alpha": 1,
       "texture": ""
     }
@@ -32751,11 +32787,23 @@
       ]
     ],
     "material": {
-      "name": "",
-      "ambient": [],
-      "diffuse": [],
-      "specular": [],
-      "n": 0,
+      "name": "Material.002",
+      "ambient": [
+        1,
+        1,
+        1
+      ],
+      "diffuse": [
+        0.8,
+        0.541804,
+        0.179435
+      ],
+      "specular": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "n": 250,
       "alpha": 1,
       "texture": ""
     }
@@ -35458,11 +35506,23 @@
       ]
     ],
     "material": {
-      "name": "",
-      "ambient": [],
-      "diffuse": [],
-      "specular": [],
-      "n": 0,
+      "name": "Material.007",
+      "ambient": [
+        1,
+        1,
+        1
+      ],
+      "diffuse": [
+        0.8,
+        0.223942,
+        0.072319
+      ],
+      "specular": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "n": 250,
       "alpha": 1,
       "texture": ""
     }
@@ -38135,11 +38195,23 @@
       ]
     ],
     "material": {
-      "name": "",
-      "ambient": [],
-      "diffuse": [],
-      "specular": [],
-      "n": 0,
+      "name": "Material.007",
+      "ambient": [
+        1,
+        1,
+        1
+      ],
+      "diffuse": [
+        0.8,
+        0.223942,
+        0.072319
+      ],
+      "specular": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "n": 250,
       "alpha": 1,
       "texture": ""
     }
@@ -75463,11 +75535,23 @@
       ]
     ],
     "material": {
-      "name": "",
-      "ambient": [],
-      "diffuse": [],
-      "specular": [],
-      "n": 0,
+      "name": "Material.007",
+      "ambient": [
+        1,
+        1,
+        1
+      ],
+      "diffuse": [
+        0.8,
+        0.223942,
+        0.072319
+      ],
+      "specular": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "n": 250,
       "alpha": 1,
       "texture": ""
     }
@@ -178886,11 +178970,23 @@
       ]
     ],
     "material": {
-      "name": "",
-      "ambient": [],
-      "diffuse": [],
-      "specular": [],
-      "n": 0,
+      "name": "Material.007",
+      "ambient": [
+        1,
+        1,
+        1
+      ],
+      "diffuse": [
+        0.8,
+        0.223942,
+        0.072319
+      ],
+      "specular": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "n": 250,
       "alpha": 1,
       "texture": ""
     }
@@ -181547,11 +181643,23 @@
       ]
     ],
     "material": {
-      "name": "",
-      "ambient": [],
-      "diffuse": [],
-      "specular": [],
-      "n": 0,
+      "name": "Material.006",
+      "ambient": [
+        1,
+        1,
+        1
+      ],
+      "diffuse": [
+        0.762199,
+        0.8,
+        0.682407
+      ],
+      "specular": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "n": 250,
       "alpha": 1,
       "texture": ""
     }
@@ -184232,11 +184340,23 @@
       ]
     ],
     "material": {
-      "name": "",
-      "ambient": [],
-      "diffuse": [],
-      "specular": [],
-      "n": 0,
+      "name": "Material.005",
+      "ambient": [
+        1,
+        1,
+        1
+      ],
+      "diffuse": [
+        0.8,
+        0.8,
+        0.8
+      ],
+      "specular": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "n": 250,
       "alpha": 1,
       "texture": ""
     }
@@ -189810,11 +189930,23 @@
       ]
     ],
     "material": {
-      "name": "",
-      "ambient": [],
-      "diffuse": [],
-      "specular": [],
-      "n": 0,
+      "name": "Material.005",
+      "ambient": [
+        1,
+        1,
+        1
+      ],
+      "diffuse": [
+        0.8,
+        0.8,
+        0.8
+      ],
+      "specular": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "n": 250,
       "alpha": 1,
       "texture": ""
     }
@@ -192604,11 +192736,23 @@
       ]
     ],
     "material": {
-      "name": "",
-      "ambient": [],
-      "diffuse": [],
-      "specular": [],
-      "n": 0,
+      "name": "Material.001",
+      "ambient": [
+        1,
+        1,
+        1
+      ],
+      "diffuse": [
+        0.146719,
+        0.245684,
+        0.8
+      ],
+      "specular": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "n": 250,
       "alpha": 1,
       "texture": ""
     }
